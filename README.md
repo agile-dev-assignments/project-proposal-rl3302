@@ -4,7 +4,7 @@
 Cheerie is a mood tracker, journal, and/or scheduler that will send you nice messages when you are down. During this time when friends and family are separated during the pandemic, this app will keep them connected and help promote mental health.
 
 ## For whom? 
-Targeted towards students to young working adults, or anyone who wants a little something to brighten up their days. 
+Targeted towards students to young working adults, or anyone who wants happy messages to brighten up their days. 
 
 ## How?
 This project will be a platform (app or web app) that allows users to 
