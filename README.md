@@ -12,7 +12,7 @@ This project will be a platform (app or web app) that allows users to
 
 2. Rate their mood for that time of the day and the data will be saved in a database 
 
-3. Analyze mood patterns and trends
+3. Analyze mood patterns and trends. Display these on a calendar with color-coded mood indicators (e.g. green - doing well, yellow - doing ok, red - not doing ok)
 
 4. When the system notices a downward trend in the user's mood, it will send the user a cheerful message 
 
