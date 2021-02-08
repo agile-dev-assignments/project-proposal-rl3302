@@ -7,7 +7,16 @@ Cheerie is a mood tracker, journal, and/or scheduler that will send you nice mes
 Targeted towards students to young working adults. 
 
 ## How?
-This project will be a platform (app or web app) that allows users to create and login to their accounts and rate their mood for that time of the day. The system will send the user a message when it notices a downward trend in the user's mood. 
+This project will be a platform (app or web app) that allows users to 
+1. Create and login to a personalized accounts 
+
+2. Rate their mood for that time of the day and the data will be saved in a database 
+
+3. Analyze mood patterns and trends
+
+4. When the system notices a downward trend in the user's mood, it will send the user a cheerful message 
+
+5. Messages can be customized and personalized according to the user's taste
 
 ## Scope
 This project has flexibility in that it has a lot of varying features (from easy to challenging ones) that can be added to the project. 
